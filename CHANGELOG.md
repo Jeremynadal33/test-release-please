@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/Jeremynadal33/test-release-please/compare/v1.0.0...v1.1.0) (2025-12-02)
+
+
+### Features
+
+* try feat commit behavior ([51b0216](https://github.com/Jeremynadal33/test-release-please/commit/51b02168bfb487808ba96cc293806bbd96840499))
+
+
+### Bug Fixes
+
+* try fix commit behavior ([b5ed930](https://github.com/Jeremynadal33/test-release-please/commit/b5ed930bd0b8527e63fa98f679963c82e7b2a16f))
+
 ## 1.0.0 (2025-12-02)
 
 
