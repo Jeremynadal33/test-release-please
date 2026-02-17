@@ -1,0 +1,16 @@
+name: Test Workflow
+
+on:
+    workflow_dispatch:
+        inputs:
+            message:
+                description: 'Message to echo'
+                required: true
+                default: 'Hello'
+
+jobs:
+    echo:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Echo input
+                run: echo "${{ github.event.inputs.message }}"
